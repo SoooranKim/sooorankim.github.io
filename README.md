@@ -32,6 +32,9 @@ Visit the live website here: [sooorankim.github.io](https://sooorankim.github.io
 ├── data/              # Folder for downloadable resources (e.g., CV)
 ├── slides/            # Folder for downloadable presentation slides
 └── README.md          # This file
+```
 
 ## ✨ Acknowledgements
-This website template is based on [Jon Barron's website](https://jonbarron.info/)
+
+This website template is inspired by [Jon Barron's website](https://jonbarron.info/).
+
